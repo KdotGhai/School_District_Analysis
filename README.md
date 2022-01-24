@@ -31,7 +31,7 @@ PyCitySchools with Pandas
    ![Original  Top 5](Resources/images/original_top_five.png)
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Original Bottom 5: <br /> 
    ![Original Bottom 5](Resources/images/original_bottom_five.png)
------------------------------------------------------------------------
+
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted: <br /> 
    ![Exempted  Top 5](Resources/images/exempted_top_five.png)
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted Bottom 5: <br /> 
