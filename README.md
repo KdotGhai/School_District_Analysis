@@ -9,6 +9,6 @@ PyCitySchools with Pandas
    
 **2.School Summary:**
  <br /> &nbsp;&nbsp;&nbsp;&nbsp;Original: <br /> 
-   ![Original District Summary](Resources/images/original_per_school_summary.png)
+   ![Original Per School Summary](Resources/images/original_per_school_summary-fixed.png)
  <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted: <br /> 
-  
+   ![Exempted Per School Summary](Resources/images/exempted_per_school_summary.png)
