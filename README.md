@@ -38,6 +38,7 @@ PyCitySchools with Pandas
    ![Exempted Bottom 5](Resources/images/exempted_bottom_five.png)
    
 **5.School Size Scores:**
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;There is no noticeable change after the exemption from *Thomas High School* <br />
 
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Original School Size Scores: <br /> 
    ![Original School Size Scores](Resources/images/original_school_size_scores.png)
@@ -46,6 +47,8 @@ PyCitySchools with Pandas
 
 
 **6.School Type Scores:**
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;There is no noticeable change after the exemption from *Thomas High School* <br />
+
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Original School Type Scores: <br /> 
    ![Original School Type Scores](Resources/images/original_school_type.png)
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted School Type Scores: <br /> 
