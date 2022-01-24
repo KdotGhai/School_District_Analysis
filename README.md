@@ -16,3 +16,10 @@ PyCitySchools with Pandas
    ![Original Per School Summary](Resources/images/original_per_school_summary-fixed.png)
  <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted: <br /> 
    ![Exempted Per School Summary](Resources/images/exempted_per_school_summary.png)
+
+**3.Spending Per Student:**
+
+ <br /> &nbsp;&nbsp;&nbsp;&nbsp;Original: <br /> 
+   ![Original Per Student](Resources/images/original_spending_per_student.png)
+ <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted: <br /> 
+   ![Exempted Per Student](Resources/images/exempted_spending_per_student.png)
