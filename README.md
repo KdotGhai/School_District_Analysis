@@ -32,7 +32,7 @@ PyCitySchools with Pandas
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Original Bottom 5: <br /> 
    ![Original Bottom 5](Resources/images/original_bottom_five.png)
 
-<br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted: <br /> 
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted Top 5: <br /> 
    ![Exempted  Top 5](Resources/images/exempted_top_five.png)
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted Bottom 5: <br /> 
    ![Exempted Bottom 5](Resources/images/exempted_bottom_five.png)
