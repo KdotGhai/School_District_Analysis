@@ -55,3 +55,4 @@ PyCitySchools with Pandas
    ![Exempted School Type Scores](Resources/images/exempted_school_type.png)
 
 ##Summary
+---------------------
