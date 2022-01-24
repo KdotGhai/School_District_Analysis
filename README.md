@@ -36,5 +36,18 @@ PyCitySchools with Pandas
    ![Exempted  Top 5](Resources/images/exempted_top_five.png)
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted Bottom 5: <br /> 
    ![Exempted Bottom 5](Resources/images/exempted_bottom_five.png)
+   
+**5.School Size Scores:**
 
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;Original School Size Scores: <br /> 
+   ![Original School Size Scores](Resources/images/original_school_size_scores.png)
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted School Size Scores: <br /> 
+   ![Exempted School Size Scores](Resources/images/exempted_school_size_scores.png)
+
+
+**6.School Type Scores:**
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;Original School Type Scores: <br /> 
+   ![Original School Type Scores](Resources/images/original_school_type.png)
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted School Type Scores: <br /> 
+   ![Exempted School Type Scores](Resources/images/exempted_school_type.png)
 
