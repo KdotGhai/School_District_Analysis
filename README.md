@@ -9,7 +9,7 @@ PyCitySchools with Pandas
    ![Exempted District Summary](Resources/images/exempted_district_summary.png)
    
 **2.School Summary:**
-   -<br /> &nbsp;&nbsp;&nbsp;&nbsp;As we break down the data per school we canb egin to notice the devil in the details, *Thomas High School* performance is barely passing when including data of its 9th Graders. Afterward, after exempting the entirety of their 9th grade students we see that they perform better, ofcourse this data makes it biased if we had not included the orignal for comparison. <br />
+   -<br /> &nbsp;&nbsp;&nbsp;&nbsp;As we break down the data per school we canb egin to notice the devil in the details, *Thomas High School* performance is barely passing when including data of its 9th Graders. Afterward, once we'd exempted the entirety of their 9th grade students we see that the school performs better(the drastic difference in Overall Percentage Passing shows the impact of excluding data), ofcourse this data makes it biased if we had not included the orignal for comparison. <br />
  <br /> &nbsp;&nbsp;&nbsp;&nbsp;Original: <br /> 
    ![Original Per School Summary](Resources/images/original_per_school_summary-fixed.png)
  <br /> &nbsp;&nbsp;&nbsp;&nbsp;Exempted: <br /> 
