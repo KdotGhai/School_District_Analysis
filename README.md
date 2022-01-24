@@ -1,6 +1,8 @@
 # School_District_Analysis
 PyCitySchools with Pandas
 
+<br /> &nbsp;&nbsp;&nbsp;&nbsp;In this module we will be utilizing *Jupyter Notebook* and *Pandas* to assist in the creation of a District Analysis of High Schools, we'll be breaking down the performance of these high schools based upon their standardized test-scores for math/reading. From there we will break down the performance of each student, each school, Overall performance, and school-type performance. Furthermore, we will create data-tables to look for correlations in budget per school, budget per student, and performance by school size. Lastly, we will be exempting data due to academic dishonesty occurring at *Thomas High School* and the entirety of its 9th graders are the once to be excluded from the data. With this exemption, we will display the difference in scores and performance in the school so that the schoolboard has easily digestible data to make decisions upon. <br /> 
+
 **1.District Summary:**
   -<br /> &nbsp;&nbsp;&nbsp;&nbsp;Here we can notice there isnt much of a drastic change in District analsyis when exempting students, there isnt a large enough disparity in the total student count as well as, scores of students under the assumption there wasnt more dishonesty in student scores. <br />
  <br /> &nbsp;&nbsp;&nbsp;&nbsp;Original: <br /> 
